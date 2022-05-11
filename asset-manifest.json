@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0be1f1b.chunk.css",
+    "main.js": "/static/js/main.bf17f2d0.chunk.js",
+    "main.js.map": "/static/js/main.bf17f2d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc3a5afb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc3a5afb.js.map",
+    "static/css/2.e11715f2.chunk.css": "/static/css/2.e11715f2.chunk.css",
+    "static/js/2.ad4d3cb1.chunk.js": "/static/js/2.ad4d3cb1.chunk.js",
+    "static/js/2.ad4d3cb1.chunk.js.map": "/static/js/2.ad4d3cb1.chunk.js.map",
+    "static/js/3.6d7fa7db.chunk.js": "/static/js/3.6d7fa7db.chunk.js",
+    "static/js/3.6d7fa7db.chunk.js.map": "/static/js/3.6d7fa7db.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e11715f2.chunk.css.map": "/static/css/2.e11715f2.chunk.css.map",
+    "static/css/main.c0be1f1b.chunk.css.map": "/static/css/main.c0be1f1b.chunk.css.map",
+    "static/js/2.ad4d3cb1.chunk.js.LICENSE.txt": "/static/js/2.ad4d3cb1.chunk.js.LICENSE.txt",
+    "static/media/BMW-750i.eda67ec0.jpg": "/static/media/BMW-750i.eda67ec0.jpg",
+    "static/media/BMW-M5.cad1b8a7.jpg": "/static/media/BMW-M5.cad1b8a7.jpg",
+    "static/media/BMW-X6.71550690.jpg": "/static/media/BMW-X6.71550690.jpg",
+    "static/media/BMWi_i3.877953f1.jpg": "/static/media/BMWi_i3.877953f1.jpg",
+    "static/media/banner01re.16227652.jpg": "/static/media/banner01re.16227652.jpg",
+    "static/media/banner02r.cf42d0f4.jpg": "/static/media/banner02r.cf42d0f4.jpg",
+    "static/media/banner03.ef61c3c3.jpg": "/static/media/banner03.ef61c3c3.jpg",
+    "static/media/bmw-i8.449ada64.jpg": "/static/media/bmw-i8.449ada64.jpg",
+    "static/media/bmw-m3-gtr.49546938.jpg": "/static/media/bmw-m3-gtr.49546938.jpg",
+    "static/media/bmw-x5.4d71b5af.jpg": "/static/media/bmw-x5.4d71b5af.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/x7.636e0427.png": "/static/media/x7.636e0427.png",
+    "static/media/z4.0e9a7a7b.png": "/static/media/z4.0e9a7a7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc3a5afb.js",
+    "static/css/2.e11715f2.chunk.css",
+    "static/js/2.ad4d3cb1.chunk.js",
+    "static/css/main.c0be1f1b.chunk.css",
+    "static/js/main.bf17f2d0.chunk.js"
+  ]
+}
